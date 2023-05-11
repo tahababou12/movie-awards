@@ -8,7 +8,7 @@ The goal of this challenge is to build out a "Movie Awards 2023" interactive bal
 
 Here are the rules of this challenge.. you must:
 
- 1) Build an application that displays a list of categories and nominees. Please follow the design in the wireframe below. Run `yarn start` to start the application.
+ 1) Build an application that displays a list of categories and nominees. Please follow the design in the wireframe below. First, run `yarn install`, then run `yarn start` to start the application.
 
  2) Run `yarn backend` to start the server and get access to API methods such as `getBallotData`. Use the React `useEffect` hook to fetch the ballot data from the provided API, and save it to state by using the React `useState` hook.
 
