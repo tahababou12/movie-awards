@@ -1,4 +1,4 @@
-# Local Front End Engineering Challenge
+# Front End Engineering Challenge
 
 Welcome Candidate and thank you for taking the time to complete the Local take-home challenge for our senior frontend engineer position
 
